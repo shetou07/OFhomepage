@@ -1,1 +1,54 @@
+.gets:hover{
+   background-color: rgb(19, 175, 19);
+}
+body{
+   background-image: url(photo-1500595046743-cd271d694d30.jpeg);
+   
+}
+.header{
+   
+  background-color: rgb(233, 169, 169);
+  text-decoration: none;
+  border-style: hidden;
+}
+.header{
+   background-color: rgb(252, 223, 223);
+}
+.head1{
+   text-decoration: none;
+}
+.gets{
+   border-style: ridge;
+}
+.navigbar{
+  align-content: stretch ;
 
+}
+li{
+   display: inline-block;
+   margin:0 15px;
+   color: black;
+   text-decoration: none;
+}
+.list{
+   list-style-type:none;
+   margin:0;
+   padding:0;
+   overflow: hidden;
+   background-color: lightgreen;
+}
+
+.services{
+   background-color: rgb(29, 180, 29);
+   text-decoration: none;
+
+}
+select{
+   display:inline-block;
+   margin: 0 15px;
+   border: 0;
+   border-radius: 0;
+   text-decoration: none;
+   width: 20;
+
+}
